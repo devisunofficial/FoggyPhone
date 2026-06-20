@@ -3,7 +3,7 @@
 This is something that I wanted to from a long time to my phone. This summer seemed the perfect time to do that.
 
 But what is it?
-I watched ![this video](https://www.youtube.com/watch?v=hlIf3mw7cRA) ad wanted to do that. Samsung S20Fe seems to have a problem of overheating that's why the loose backpanel is a common issue.
+I watched ![this video](https://www.youtube.com/watch?v=hlIf3mw7cRA) and wanted to do that. Samsung S20Fe seems to have a problem of overheating that's why the loose backpanel is a common issue.
 
 So here I'm doing this.
 
